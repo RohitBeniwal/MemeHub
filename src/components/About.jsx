@@ -33,7 +33,7 @@ Choose from trending meme templates.<br/>
       MemeHub provides a platform that caters to both meme enthusiasts and those looking to add a touch of humor to their content. With an ever-growing library of meme templates and an intuitive customization process, MemeHub makes meme creation a fun and accessible experience for users of all levels. Get ready to express your creativity and share laughter with MemeHub's easy-to-use meme generator.
       </p>
       </div>
-      <div className='left w-1/2'><img className="w-80" src='/favicon/meme_sad_frog.png'/></div>
+      <div className='left w-1/2'><img className="w-80" src='https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_sad_frog.png'/></div>
     </div>
     
     <Footer/>

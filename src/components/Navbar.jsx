@@ -11,7 +11,7 @@ const Navbar = ({setMeme}) => {
         <nav className="navbar  bg-black text-white flex justify-between rounded-full border-1 border-black border-opacity-70 items-center px-10 py-2 shadow-md sticky top-0 z-10">
             <div className="logo font-bold text-2xl">MemeHub</div>
             
-                <img className="w-10 h-10" src="/favicon/meme_sad_frog.png" alt="" />
+                <img className="w-10 h-10" src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/09/meme_sad_frog.png" alt="" />
             <ul className="nav-links list-none flex">
                 <li className="mr-20">
                     <Link to="/"onClick={() => setMeme(null)} >Home</Link>
